@@ -1,0 +1,24 @@
+//==
+//== Fonts
+//== ======================================= ==//
+
+@import "config/fonts/main";
+
+//==
+//== Color palette
+//== ======================================= ==//
+
+$main-font: rgb(0, 0, 0);
+$sub-font: grey;
+
+$palette-primary: #3c8dbc; // Primary
+$palette-danger: #dd4b39; // Danger
+$palette-success: #00a65a; // Success
+$palette-info: #00c0ef; // Info
+$palette-warning: #f39c12; // Warning
+
+//==
+//== Mixins
+//== ======================================= ==//
+
+@import "config/mixins/mixin-buttons";
